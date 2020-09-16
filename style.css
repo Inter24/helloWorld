@@ -1,0 +1,8 @@
+body {
+    background: aliceblue;
+}
+
+.card-wrapper {
+    height: 100vh;
+    font-family: 'Open Sans', monospace;
+}
